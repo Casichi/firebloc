@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091242315882",
+    "project_id": "fireblocc-8c0d6",
+    "storage_bucket": "fireblocc-8c0d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091242315882:android:89394dd035a5f3f02cfa13",
+        "android_client_info": {
+          "package_name": "com.firebloc.firebloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091242315882-t0e6frb554hru5amulf4s1eqs4fbkkqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wnEQo27UgF46JYiPrh5S932Fm0eYhVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091242315882-t0e6frb554hru5amulf4s1eqs4fbkkqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
